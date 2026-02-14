@@ -26,3 +26,8 @@ Thumbs.db
 data/jeopardy_clue_dataset/
 data/new_dictionary_cultural_literacy.pdf
 data/xd_corpus/
+data/kaikki_english.jsonl.gz
+data/bartletts_gutenberg.txt
+
+# Executed notebooks (contain outputs, regenerable)
+notebooks/*_executed.ipynb
