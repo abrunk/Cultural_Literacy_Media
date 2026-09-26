@@ -1,0 +1,487 @@
+work_id,title,medium,year,display_concept,concept_norm,concept_type,relevance,matched_concept,matched_qid,matched_score
+W00823,Wings of Desire,film,1987.0,Berlin,berlin,theme,2,berlin,,92.1325862018715
+W00844,Lincoln,film,2012.0,Abraham Lincoln,abraham lincoln,theme,2,abraham lincoln,,92.51662497525923
+W00841,Total Recall,film,1990.0,Mars,mars,theme,2,mars,,96.90183960551585
+W00829,The Martian,film,2015.0,Mars,mars,theme,2,mars,,96.90183960551585
+W00333,Metropolis,film,1927.0,love,love,theme,2,love,,95.53913007594343
+W00002,Casablanca,film,1942.0,World War II,world war ii,theme,2,world war ii,,68.2937110138989
+W00373,Grave of the Fireflies,film,1988.0,World War II,world war ii,theme,2,world war ii,,68.2937110138989
+W00381,Shoah,film,1985.0,World War II,world war ii,theme,2,world war ii,,68.2937110138989
+W00071,The Shawshank Redemption,film,1994.0,corruption,corruption,theme,2,corruption,,39.88293701484631
+W00128,A Beautiful Mind,film,2001.0,mathematics,mathematics,theme,2,mathematics,,54.87312887482455
+W00846,My Name Is Khan,film,2010.0,Islam,islam,theme,2,islam,,98.71079270052964
+W00071,The Shawshank Redemption,film,1994.0,friendship,friendship,theme,2,friendship,,63.666958129795056
+W00017,The General,film,1926.0,train,train,theme,2,train,,97.1284427613101
+W00834,Kingdom of Heaven,film,2005.0,Jerusalem,jerusalem,theme,2,jerusalem,,90.04685089600059
+W00822,Zero Dark Thirty,film,2012.0,Osama bin Laden,osama bin laden,theme,2,osama bin laden,,90.71600229202836
+W00381,Shoah,film,1985.0,The Holocaust,holocaust,theme,2,holocaust,,46.88900716586646
+W00128,A Beautiful Mind,film,2001.0,university,university,theme,2,university,,69.71183875110277
+W00822,Zero Dark Thirty,film,2012.0,terrorism,terrorism,theme,2,terrorism,,27.17510229716646
+W00880,Extremely Loud and Incredibly Close,film,2011.0,terrorism,terrorism,theme,2,terrorism,,27.17510229716646
+W00846,My Name Is Khan,film,2010.0,Federal Bureau of Investigation,federal bureau of investigation,theme,2,federal bureau of investigation,,82.18856736134458
+W00834,Kingdom of Heaven,film,2005.0,Saladin,saladin,theme,2,saladin,,88.28882062304686
+W00053,M*A*S*H,film,1970.0,Korean War,korean war,theme,2,korean war,,71.86293398175232
+W00822,Zero Dark Thirty,film,2012.0,September 11 attacks,september 11 attacks,theme,2,,,
+W00840,Fahrenheit 9/11,film,2004.0,September 11 attacks,september 11 attacks,theme,2,,,
+W00846,My Name Is Khan,film,2010.0,September 11 attacks,september 11 attacks,theme,2,,,
+W00880,Extremely Loud and Incredibly Close,film,2011.0,September 11 attacks,september 11 attacks,theme,2,,,
+W00333,Metropolis,film,1927.0,revolution,revolution,theme,2,revolution,,74.1678452023386
+W00333,Metropolis,film,1927.0,technology,technology,theme,2,technology,,54.08762036399448
+W00841,Total Recall,film,1990.0,amnesia,amnesia,theme,2,amnesia,,91.73804924409232
+W00846,My Name Is Khan,film,2010.0,World Trade Center,world trade center,theme,2,world trade center,,94.91178256519024
+W00829,The Martian,film,2015.0,astronaut,astronaut,theme,2,astronaut,,84.60175977534465
+W00014,2001: A Space Odyssey,film,1968.0,artificial intelligence,artificial intelligence,theme,2,artificial intelligence,,93.00674779990936
+W00849,Agora,film,2009.0,Hypatia,hypatia,theme,2,hypatia,,92.79156617132188
+W00309,Seven Samurai,film,1954.0,fencing,fencing,theme,2,fencing,,67.51181290653277
+W00834,Kingdom of Heaven,film,2005.0,Crusades,crusades,theme,2,crusades,,80.96943241730045
+W00834,Kingdom of Heaven,film,2005.0,Middle Ages,middle ages,theme,2,middle ages,,59.867474162440814
+W00003,Raging Bull,film,1980.0,boxing,boxing,theme,2,boxing,,78.49466906403306
+W00846,My Name Is Khan,film,2010.0,Hollywood,hollywood,theme,2,hollywood,,79.73824374385028
+W00309,Seven Samurai,film,1954.0,samurai,samurai,theme,2,samurai,,90.97831102805183
+W00846,My Name Is Khan,film,2010.0,autism,autism,theme,2,autism,,83.2932903303404
+W00880,Extremely Loud and Incredibly Close,film,2011.0,autism,autism,theme,2,autism,,83.2932903303404
+W00128,A Beautiful Mind,film,2001.0,schizophrenia,schizophrenia,theme,2,schizophrenia,,92.36489433578215
+W00348,Rififi,film,1955.0,organized crime,organized crime,theme,2,organized crime,,17.577342623032038
+W00846,My Name Is Khan,film,2010.0,Q79407,q79407,theme,2,,,
+W00835,Finding Neverland,film,2004.0,J. M. Barrie,j. m. barrie,theme,2,j. m. barrie,,89.34879016572006
+W00014,2001: A Space Odyssey,film,1968.0,human evolution,human evolution,theme,2,,,
+W00876,Elvis,film,2022.0,Elvis Presley,elvis presley,theme,2,elvis presley,,86.94530711957019
+W00876,Elvis,film,2022.0,love,love,theme,2,love,,95.53913007594343
+W00811,Napoleon,film,2023.0,Napoleon,napoleon,theme,2,napoleon,,95.08670763249631
+W00862,Space Jam: A New Legacy,film,2021.0,basketball,basketball,theme,2,basketball,,83.23900048623992
+W00876,Elvis,film,2022.0,rock and roll,rock and roll,theme,2,rock and roll,,82.03032277668578
+W00862,Space Jam: A New Legacy,film,2021.0,artificial intelligence,artificial intelligence,theme,2,artificial intelligence,,93.00674779990936
+W00833,Steve Jobs,film,2015.0,Steve Jobs,steve jobs,theme,2,steve jobs,,87.81588753732174
+W00862,Space Jam: A New Legacy,film,2021.0,LeBron James,lebron james,theme,2,lebron james,,70.32543622674278
+W00829,The Martian,film,2015.0,human mission to Mars,human mission to mars,theme,2,,,
+W00839,The Favourite,film,2018.0,Anne of Great Britain,anne of great britain,theme,2,anne of great britain,,87.83552478020695
+W00862,Space Jam: A New Legacy,film,2021.0,virtual reality,virtual reality,theme,2,virtual reality,,57.97744050818701
+W00829,The Martian,film,2015.0,cooperation,cooperation,theme,2,,,
+W00876,Elvis,film,2022.0,Colonel Tom Parker,colonel tom parker,theme,2,colonel tom parker,,89.3697021759164
+W00876,Elvis,film,2022.0,show business,show business,theme,2,show business,,30.11039368245249
+W00876,Elvis,film,2022.0,musician,musician,theme,2,musician,,64.14490654175978
+W00829,The Martian,film,2015.0,exploration of Mars,exploration of mars,theme,2,,,
+W00876,Elvis,film,2022.0,music industry,music industry,theme,2,,,
+W00829,The Martian,film,2015.0,colonization of Mars,colonization of mars,theme,2,,,
+W00876,Elvis,film,2022.0,social exploitation,social exploitation,theme,2,,,
+W00829,The Martian,film,2015.0,survival skill,survival skill,theme,2,,,
+W00839,The Favourite,film,2018.0,royal court,royal court,theme,2,,,
+W00839,The Favourite,film,2018.0,rivalry,rivalry,theme,2,,,
+W00839,The Favourite,film,2018.0,ambition,ambition,theme,2,,,
+W00839,The Favourite,film,2018.0,extravagance,extravagance,theme,2,,,
+W00839,The Favourite,film,2018.0,cabal,cabal,theme,2,cabal,,83.3046950149795
+W00839,The Favourite,film,2018.0,courtier,courtier,theme,2,,,
+W00862,Space Jam: A New Legacy,film,2021.0,parallel universe,parallel universe,theme,2,,,
+W00839,The Favourite,film,2018.0,British nobility,british nobility,theme,2,,,
+W00829,The Martian,film,2015.0,solitude,solitude,theme,2,solitude,,75.77250664776878
+W00839,The Favourite,film,2018.0,downward social mobility,downward social mobility,theme,2,,,
+W00005,Gone with the Wind,film,1939.0,slavery in the United States,slavery in the united states,theme,2,,,
+W00844,Lincoln,film,2012.0,slavery in the United States,slavery in the united states,theme,2,,,
+W00020,Chinatown,film,1974.0,incest,incest,theme,2,,,
+W00128,A Beautiful Mind,film,2001.0,John Forbes Nash,john forbes nash,theme,2,john forbes nash,,91.3988951995643
+W00841,Total Recall,film,1990.0,resistance movement,resistance movement,theme,2,,,
+W00309,Seven Samurai,film,1954.0,deception,deception,theme,2,,,
+W00016,The Graduate,film,1967.0,virginity,virginity,theme,2,,,
+W00014,2001: A Space Odyssey,film,1968.0,space exploration,space exploration,theme,2,,,
+W00104,Back to the Future,film,1985.0,time travel,time travel,theme,2,,,
+W00373,Grave of the Fireflies,film,1988.0,Pacific War,pacific war,theme,2,,,
+W00834,Kingdom of Heaven,film,2005.0,siege,siege,theme,2,siege,,90.17237075798911
+W00071,The Shawshank Redemption,film,1994.0,hope,hope,theme,2,hope,,97.5559661786676
+W00326,Umberto D.,film,1952.0,old age,old age,theme,2,old age,,57.72410719229634
+W00333,Metropolis,film,1927.0,working class,working class,theme,2,working class,,34.50529131349547
+W00309,Seven Samurai,film,1954.0,hostage,hostage,theme,2,hostage,,49.13887118986664
+W00823,Wings of Desire,film,1987.0,immortality,immortality,theme,2,immortality,,65.91973901339412
+W00309,Seven Samurai,film,1954.0,Sengoku period,sengoku period,theme,2,,,
+W00309,Seven Samurai,film,1954.0,alcohol intoxication,alcohol intoxication,theme,2,,,
+W00834,Kingdom of Heaven,film,2005.0,Battle of Hattin,battle of hattin,theme,2,,,
+W00370,My Neighbor Totoro,film,1988.0,childhood,childhood,theme,2,childhood,,38.34715147822311
+W00846,My Name Is Khan,film,2010.0,New York City Police Department,new york city police department,theme,2,,,
+W00834,Kingdom of Heaven,film,2005.0,Balian of Ibelin,balian of ibelin,theme,2,,,
+W00128,A Beautiful Mind,film,2001.0,pattern recognition,pattern recognition,theme,2,,,
+W00309,Seven Samurai,film,1954.0,premarital sex,premarital sex,theme,2,,,
+W00841,Total Recall,film,1990.0,telepresence,telepresence,theme,2,,,
+W00823,Wings of Desire,film,1987.0,human nature,human nature,theme,2,,,
+W00841,Total Recall,film,1990.0,colonization of Mars,colonization of mars,theme,2,,,
+W00071,The Shawshank Redemption,film,1994.0,imprisonment,imprisonment,theme,2,,,
+W00071,The Shawshank Redemption,film,1994.0,miscarriage of justice,miscarriage of justice,theme,2,,,
+W00823,Wings of Desire,film,1987.0,romantic love,romantic love,theme,2,,,
+W00823,Wings of Desire,film,1987.0,mortality,mortality,theme,2,mortality,,49.9961056662556
+W00309,Seven Samurai,film,1954.0,false alarm,false alarm,theme,2,false alarm,,49.20606216294578
+W00071,The Shawshank Redemption,film,1994.0,incarceration in the United States,incarceration in the united states,theme,2,,,
+W00333,Metropolis,film,1927.0,intergenerational struggle,intergenerational struggle,theme,2,,,
+W00370,My Neighbor Totoro,film,1988.0,sibling relationship,sibling relationship,theme,2,,,
+W00005,Gone with the Wind,film,1939.0,revenge,revenge,theme,2,revenge,,87.05101933302959
+W00071,The Shawshank Redemption,film,1994.0,abuse of power,abuse of power,theme,2,,,
+W00841,Total Recall,film,1990.0,false memory,false memory,theme,2,,,
+W00014,2001: A Space Odyssey,film,1968.0,AI takeover,ai takeover,theme,2,,,
+W00841,Total Recall,film,1990.0,personal identity,personal identity,theme,2,personal identity,,28.0183362268766
+W00333,Metropolis,film,1927.0,gender role,gender role,theme,2,,,
+W00333,Metropolis,film,1927.0,working conditions,working conditions,theme,2,,,
+W00333,Metropolis,film,1927.0,dehumanization,dehumanization,theme,2,,,
+W00373,Grave of the Fireflies,film,1988.0,bombing of Kobe in World War II,bombing of kobe in world war ii,theme,2,,,
+W00326,Umberto D.,film,1952.0,solitude,solitude,theme,2,solitude,,75.77250664776878
+W00309,Seven Samurai,film,1954.0,banditry,banditry,theme,2,,,
+W00333,Metropolis,film,1927.0,modernity,modernity,theme,2,,,
+W00071,The Shawshank Redemption,film,1994.0,male bonding,male bonding,theme,2,,,
+W00370,My Neighbor Totoro,film,1988.0,spirit of nature,spirit of nature,theme,2,,,
+W00846,My Name Is Khan,film,2010.0,religious intolerance,religious intolerance,theme,2,,,
+W00309,Seven Samurai,film,1954.0,misunderstanding,misunderstanding,theme,2,misunderstanding,,17.577342623032038
+W00333,Metropolis,film,1927.0,class relations,class relations,theme,2,,,
+W00002,Casablanca,film,1942.0,fleeting relationship,fleeting relationship,theme,2,,,
+W00025,Mr. Smith Goes to Washington,film,1939.0,idealism,idealism,theme,2,idealism,,64.57543261910915
+W00845,March of the Penguins,film,2005.0,Antarctica,antarctica,theme,2,antarctica,,90.1642950061796
+W00863,Abraham Lincoln: Vampire Hunter,film,2012.0,Abraham Lincoln,abraham lincoln,theme,2,abraham lincoln,,92.51662497525923
+W00007,Schindler's List,film,1993.0,World War II,world war ii,theme,2,world war ii,,68.2937110138989
+W00061,American Graffiti,film,1973.0,car,car,theme,2,car,,96.51326746258036
+W00007,Schindler's List,film,1993.0,The Holocaust,holocaust,theme,2,holocaust,,46.88900716586646
+W00872,Blonde,film,2022.0,Marilyn Monroe,marilyn monroe,theme,2,marilyn monroe,,89.45968220045484
+W00869,Remember Me,film,2010.0,terrorism,terrorism,theme,2,terrorism,,27.17510229716646
+W00866,Time of the Gypsies,film,1988.0,Romani people,romani people,theme,2,,,
+W00028,Double Indemnity,film,1944.0,capital punishment,capital punishment,theme,2,capital punishment,,23.34609239971407
+W00232,Get Out,film,2017.0,racism,racism,theme,2,,,
+W00232,Get Out,film,2017.0,slavery,slavery,theme,2,slavery,,79.36774480012902
+W00013,Psycho,film,1960.0,psychology,psychology,theme,2,psychology,,63.72645327518984
+W00843,United 93,film,2006.0,September 11 attacks,september 11 attacks,theme,2,,,
+W00869,Remember Me,film,2010.0,September 11 attacks,september 11 attacks,theme,2,,,
+W00877,Dear John,film,2010.0,September 11 attacks,september 11 attacks,theme,2,,,
+W00066,Who's Afraid of Virginia Woolf?,film,1966.0,alcoholism,alcoholism,theme,2,alcoholism,,62.51635635909585
+W00848,Jobs,film,2013.0,Steve Jobs,steve jobs,theme,2,steve jobs,,87.81588753732174
+W00854,Becoming Jane,film,2007.0,Jane Austen,jane austen,theme,2,jane austen,,88.00066302883612
+W00877,Dear John,film,2010.0,autism,autism,theme,2,autism,,83.2932903303404
+W00076,All the President's Men,film,1976.0,Watergate scandal,watergate scandal,theme,2,watergate scandal,,45.54519953493519
+W00863,Abraham Lincoln: Vampire Hunter,film,2012.0,vampire,vampire,theme,2,vampire,,84.58709542415554
+W00866,Time of the Gypsies,film,1988.0,organized crime,organized crime,theme,2,organized crime,,17.577342623032038
+W00007,Schindler's List,film,1993.0,Oskar Schindler,oskar schindler,theme,2,oskar schindler,,58.27378350594578
+W00061,American Graffiti,film,1973.0,adolescence,adolescence,theme,2,adolescence,,54.72178151942799
+W00845,March of the Penguins,film,2005.0,Emperor Penguin,emperor penguin,theme,2,emperor penguin,,52.65775694254849
+W00879,Nanook of the North,film,1922.0,Inuit,inuit,theme,2,inuit,,93.05534445771364
+W00232,Get Out,film,2017.0,elite,elite,theme,2,elite,,93.86343238249276
+W00232,Get Out,film,2017.0,hypocrisy,hypocrisy,theme,2,hypocrisy,,49.9961056662556
+W00078,The Wild Bunch,film,1969.0,Mexican Revolution,mexican revolution,theme,2,,,
+W00072,Butch Cassidy and the Sundance Kid,film,1969.0,Sundance Kid,sundance kid,theme,2,sundance kid,,66.33234652120001
+W00843,United 93,film,2006.0,United Airlines Flight 93,united airlines flight 93,theme,2,,,
+W00061,American Graffiti,film,1973.0,dating,dating,theme,2,,,
+W00007,Schindler's List,film,1993.0,forced labor,forced labor,theme,2,,,
+W00843,United 93,film,2006.0,aviation,aviation,theme,2,aviation,,56.01536970736714
+W00866,Time of the Gypsies,film,1988.0,social exploitation,social exploitation,theme,2,,,
+W00232,Get Out,film,2017.0,social exploitation,social exploitation,theme,2,,,
+W00863,Abraham Lincoln: Vampire Hunter,film,2012.0,revenge,revenge,theme,2,revenge,,87.05101933302959
+W00866,Time of the Gypsies,film,1988.0,revenge,revenge,theme,2,revenge,,87.05101933302959
+W00232,Get Out,film,2017.0,dehumanization,dehumanization,theme,2,,,
+W00013,Psycho,film,1960.0,behavioral sciences,behavioral sciences,theme,2,,,
+W00866,Time of the Gypsies,film,1988.0,Romani people in Italy,romani people in italy,theme,2,,,
+W00007,Schindler's List,film,1993.0,rescue of Jews during the Holocaust,rescue of jews during the holocaust,theme,2,,,
+W00360,Solaris,film,1972.0,death,death,theme,2,death,,94.46737698776576
+W00319,Breathless,film,1960.0,love,love,theme,2,love,,95.53913007594343
+W00360,Solaris,film,1972.0,love,love,theme,2,love,,95.53913007594343
+W00075,Forrest Gump,film,1994.0,love,love,theme,2,love,,95.53913007594343
+W00006,Lawrence of Arabia,film,1962.0,World War I,world war i,theme,2,world war i,,77.21386809184246
+W00070,Saving Private Ryan,film,1998.0,World War II,world war ii,theme,2,world war ii,,68.2937110138989
+W00035,The Bridge on the River Kwai,film,1957.0,World War II,world war ii,theme,2,world war ii,,68.2937110138989
+W00319,Breathless,film,1960.0,liberty,liberty,theme,2,liberty,,87.65648268842557
+W00360,Solaris,film,1972.0,spaceflight,spaceflight,theme,2,,,
+W00055,Jaws,film,1975.0,shark,shark,theme,2,shark,,93.45476065190972
+W00201,A Man for All Seasons,film,1966.0,capital punishment,capital punishment,theme,2,capital punishment,,23.34609239971407
+W00075,Forrest Gump,film,1994.0,Vietnam War,vietnam war,theme,2,vietnam war,,70.11404720392284
+W00360,Solaris,film,1972.0,epistemology,epistemology,theme,2,epistemology,,78.07435408417217
+W00319,Breathless,film,1960.0,free will,free will,theme,2,free will,,77.07611178060677
+W00360,Solaris,film,1972.0,reality,reality,theme,2,reality,,68.00336344413506
+W00830,Zeitgeist: The Movie,film,2007.0,September 11 attacks,september 11 attacks,theme,2,,,
+W00272,Rain Man,film,1988.0,gambling,gambling,theme,2,gambling,,55.51937145416685
+W00070,Saving Private Ryan,film,1998.0,Invasion of Normandy,invasion of normandy,theme,2,invasion of normandy,,28.0183362268766
+W00256,Milk,film,2008.0,Harvey Milk,harvey milk,theme,2,harvey milk,,68.7903660246437
+W00006,Lawrence of Arabia,film,1962.0,power,power,theme,2,power,,93.06322683124272
+W00082,Titanic,film,1997.0,Titanic,titanic,theme,2,titanic,,94.89122883844377
+W00264,Oliver!,film,1968.0,prostitution,prostitution,theme,2,prostitution,,72.41655049731884
+W00272,Rain Man,film,1988.0,autism,autism,theme,2,autism,,83.2932903303404
+W00001,The Godfather,film,1972.0,organized crime,organized crime,theme,2,organized crime,,17.577342623032038
+W00093,Pulp Fiction,film,1994.0,organized crime,organized crime,theme,2,organized crime,,17.577342623032038
+W00055,Jaws,film,1975.0,great white shark,great white shark,theme,2,great white shark,,74.97259973872754
+W00075,Forrest Gump,film,1994.0,history of the United States,history of the united states,theme,2,,,
+W00264,Oliver!,film,1968.0,murder,murder,theme,2,murder,,86.43984994158247
+W00264,Oliver!,film,1968.0,child abuse,child abuse,theme,2,,,
+W00152,American Beauty,film,1999.0,virginity,virginity,theme,2,,,
+W00006,Lawrence of Arabia,film,1962.0,T. E. Lawrence,t. e. lawrence,theme,2,t. e. lawrence,,50.5881342285957
+W00360,Solaris,film,1972.0,extraterrestrial life,extraterrestrial life,theme,2,extraterrestrial life,,28.0183362268766
+W00035,The Bridge on the River Kwai,film,1957.0,Pacific War,pacific war,theme,2,,,
+W00055,Jaws,film,1975.0,social class,social class,theme,2,,,
+W00055,Jaws,film,1975.0,risk management,risk management,theme,2,,,
+W00015,Sunset Boulevard,film,1950.0,delusion,delusion,theme,2,delusion,,68.1833886941877
+W00360,Solaris,film,1972.0,unconscious mind,unconscious mind,theme,2,,,
+W00152,American Beauty,film,1999.0,role,role,theme,2,role,,88.7468636823119
+W00319,Breathless,film,1960.0,role,role,theme,2,role,,88.7468636823119
+W00075,Forrest Gump,film,1994.0,destiny,destiny,theme,2,destiny,,81.22477332787057
+W00035,The Bridge on the River Kwai,film,1957.0,Burma Campaign,burma campaign,theme,2,,,
+W00015,Sunset Boulevard,film,1950.0,loneliness,loneliness,theme,2,loneliness,,30.11039368245249
+W00006,Lawrence of Arabia,film,1962.0,Arab Revolt,arab revolt,theme,2,,,
+W00072,Butch Cassidy and the Sundance Kid,film,1969.0,Butch Cassidy,butch cassidy,theme,2,butch cassidy,,69.44347568726089
+W00015,Sunset Boulevard,film,1950.0,ageing,ageing,theme,2,,,
+W00055,Jaws,film,1975.0,seamanship,seamanship,theme,2,seamanship,,27.17510229716646
+W00360,Solaris,film,1972.0,ethics in science,ethics in science,theme,2,,,
+W00015,Sunset Boulevard,film,1950.0,cinema of the United States,cinema of the united states,theme,2,,,
+W00082,Titanic,film,1997.0,Belle Époque,belle epoque,theme,2,belle epoque,,23.34609239971407
+W00073,The Silence of the Lambs,film,1991.0,serial killer,serial killer,theme,2,serial killer,,84.5484789655084
+W00108,Inception,film,2010.0,telepresence,telepresence,theme,2,,,
+W00360,Solaris,film,1972.0,guilt,guilt,theme,2,guilt,,81.14601328748574
+W00360,Solaris,film,1972.0,human nature,human nature,theme,2,,,
+W00264,Oliver!,film,1968.0,petty crime,petty crime,theme,2,,,
+W00360,Solaris,film,1972.0,identity,identity,theme,2,identity,,69.52552968822064
+W00068,Tootsie,film,1982.0,breeches role,breeches role,theme,2,,,
+W00033,Snow White and the Seven Dwarfs,film,1937.0,persecution,persecution,theme,2,persecution,,72.41655049731884
+W00055,Jaws,film,1975.0,shark attack,shark attack,theme,2,,,
+W00152,American Beauty,film,1999.0,dysfunctional family,dysfunctional family,theme,2,,,
+W00082,Titanic,film,1997.0,shipwrecking,shipwrecking,theme,2,,,
+W00006,Lawrence of Arabia,film,1962.0,grandiose delusions,grandiose delusions,theme,2,,,
+W00152,American Beauty,film,1999.0,culture of the United States,culture of the united states,theme,2,,,
+W00075,Forrest Gump,film,1994.0,culture of the United States,culture of the united states,theme,2,,,
+W00015,Sunset Boulevard,film,1950.0,failure,failure,theme,2,failure,,50.5194228745774
+W00319,Breathless,film,1960.0,human condition,human condition,theme,2,,,
+W00006,Lawrence of Arabia,film,1962.0,rivalry,rivalry,theme,2,,,
+W00073,The Silence of the Lambs,film,1991.0,offender profiling,offender profiling,theme,2,,,
+W00082,Titanic,film,1997.0,distinction,distinction,theme,2,distinction,,49.9961056662556
+W00360,Solaris,film,1972.0,mortality,mortality,theme,2,mortality,,49.9961056662556
+W00033,Snow White and the Seven Dwarfs,film,1937.0,vanity,vanity,theme,2,vanity,,82.16611815799362
+W00152,American Beauty,film,1999.0,midlife crisis,midlife crisis,theme,2,midlife crisis,,49.37420943238758
+W00033,Snow White and the Seven Dwarfs,film,1937.0,parent–child relationship,parent–child relationship,theme,2,,,
+W00015,Sunset Boulevard,film,1950.0,movie star,movie star,theme,2,,,
+W00006,Lawrence of Arabia,film,1962.0,cultural identity,cultural identity,theme,2,,,
+W00015,Sunset Boulevard,film,1950.0,film industry,film industry,theme,2,film industry,,28.0183362268766
+W00070,Saving Private Ryan,film,1998.0,Sole Survivor Policy,sole survivor policy,theme,2,,,
+W00360,Solaris,film,1972.0,self-knowledge,self-knowledge,theme,2,,,
+W00006,Lawrence of Arabia,film,1962.0,Battle of Aqaba,battle of aqaba,theme,2,,,
+W00360,Solaris,film,1972.0,personal identity,personal identity,theme,2,personal identity,,28.0183362268766
+W00035,The Bridge on the River Kwai,film,1957.0,River Kwai bridge,river kwai bridge,theme,2,,,
+W00082,Titanic,film,1997.0,sinking of the RMS Titanic,sinking of the rms titanic,theme,2,,,
+W00152,American Beauty,film,1999.0,social convention,social convention,theme,2,,,
+W00082,Titanic,film,1997.0,disaster,disaster,theme,2,disaster,,80.4797845830962
+W00108,Inception,film,2010.0,dream world,dream world,theme,2,,,
+W00070,Saving Private Ryan,film,1998.0,altruistic suicide,altruistic suicide,theme,2,,,
+W00360,Solaris,film,1972.0,suffering,suffering,theme,2,suffering,,43.1830017275873
+W00033,Snow White and the Seven Dwarfs,film,1937.0,jealousy,jealousy,theme,2,jealousy,,71.94275738137603
+W00360,Solaris,film,1972.0,personhood,personhood,theme,2,,,
+W00070,Saving Private Ryan,film,1998.0,Operation Overlord,operation overlord,theme,2,operation overlord,,52.30719719551241
+W00006,Lawrence of Arabia,film,1962.0,male bonding,male bonding,theme,2,,,
+W00360,Solaris,film,1972.0,first contact fiction,first contact fiction,theme,2,,,
+W00070,Saving Private Ryan,film,1998.0,rescue operation,rescue operation,theme,2,,,
+W00070,Saving Private Ryan,film,1998.0,comradeship,comradeship,theme,2,,,
+W00319,Breathless,film,1960.0,outsider,outsider,theme,2,,,
+W00082,Titanic,film,1997.0,RMS Titanic maiden voyage,rms titanic maiden voyage,theme,2,,,
+W00006,Lawrence of Arabia,film,1962.0,assassin,assassin,theme,2,assassin,,83.919976492258
+W00082,Titanic,film,1997.0,intercultural relationship,intercultural relationship,theme,2,,,
+W00319,Breathless,film,1960.0,individual and society,individual and society,theme,2,,,
+W00015,Sunset Boulevard,film,1950.0,end of career,end of career,theme,2,,,
+W00082,Titanic,film,1997.0,forbidden love,forbidden love,theme,2,,,
+W00810,Bad Luck Banging or Loony Porn,film,2021.0,Romania,romania,theme,2,romania,,93.0549398271454
+W00810,Bad Luck Banging or Loony Porn,film,2021.0,pornography,pornography,theme,2,pornography,,72.41655049731884
+W00148,The Great Dictator,film,1940.0,dictatorship,dictatorship,theme,2,dictatorship,,72.41655049731884
+W00260,Mrs. Miniver,film,1942.0,World War II,world war ii,theme,2,world war ii,,68.2937110138989
+W00036,The Best Years of Our Lives,film,1946.0,World War II,world war ii,theme,2,world war ii,,68.2937110138989
+W00038,Dr. Strangelove,film,1964.0,World War III,world war iii,theme,2,world war iii,,40.5951024658237
+W00874,I'm Not There,film,2007.0,Bob Dylan,bob dylan,theme,2,bob dylan,,84.01273154979434
+W00023,E.T. the Extra-Terrestrial,film,1982.0,friendship,friendship,theme,2,friendship,,63.666958129795056
+W00042,Midnight Cowboy,film,1969.0,friendship,friendship,theme,2,friendship,,63.666958129795056
+W00250,Lost in Translation,film,2003.0,friendship,friendship,theme,2,friendship,,63.666958129795056
+W00816,The Promised Land,film,1975.0,Łódź,łodz,theme,2,,,
+W00865,Leaving Neverland,film,2019.0,Q2831,q2831,theme,2,q2831,,99.96887886096631
+W00148,The Great Dictator,film,1940.0,fascism,fascism,theme,2,fascism,,74.97259973872754
+W00042,Midnight Cowboy,film,1969.0,homosexuality,homosexuality,theme,2,homosexuality,,28.0183362268766
+W00136,Batman Begins,film,2005.0,terrorism,terrorism,theme,2,terrorism,,27.17510229716646
+W00023,E.T. the Extra-Terrestrial,film,1982.0,family,family,theme,2,family,,85.56108297873976
+W00163,12 Years a Slave,film,2013.0,racism,racism,theme,2,,,
+W00038,Dr. Strangelove,film,1964.0,Cold War,cold war,theme,2,cold war,,85.17689101682095
+W00029,Apocalypse Now,film,1979.0,Vietnam War,vietnam war,theme,2,vietnam war,,70.11404720392284
+W00085,Platoon,film,1986.0,Vietnam War,vietnam war,theme,2,vietnam war,,70.11404720392284
+W00136,Batman Begins,film,2005.0,ninja,ninja,theme,2,ninja,,90.340046381302
+W00871,Reign Over Me,film,2007.0,September 11 attacks,september 11 attacks,theme,2,,,
+W00875,World Trade Center,film,2006.0,September 11 attacks,september 11 attacks,theme,2,,,
+W00023,E.T. the Extra-Terrestrial,film,1982.0,communication,communication,theme,2,communication,,23.34609239971407
+W00860,Judy,film,2019.0,Judy Garland,judy garland,theme,2,judy garland,,89.28936679974754
+W00096,Blade Runner,film,1982.0,artificial intelligence,artificial intelligence,theme,2,artificial intelligence,,93.00674779990936
+W00148,The Great Dictator,film,1940.0,antisemitism,antisemitism,theme,2,,,
+W00058,Nashville,film,1975.0,Nashville,nashville,theme,2,nashville,,76.9191838542842
+W00836,The Man Who Knew Infinity,film,2015.0,University of Cambridge,university of cambridge,theme,2,,,
+W00051,Taxi Driver,film,1976.0,prostitution,prostitution,theme,2,prostitution,,72.41655049731884
+W00042,Midnight Cowboy,film,1969.0,prostitution,prostitution,theme,2,prostitution,,72.41655049731884
+W00810,Bad Luck Banging or Loony Porn,film,2021.0,teacher,teacher,theme,2,teacher,,84.80058785330866
+W00819,Courage Under Fire,film,1996.0,Gulf War,gulf war,theme,2,,,
+W00250,Lost in Translation,film,2003.0,existentialism,existentialism,theme,2,existentialism,,96.27759200184732
+W00051,Taxi Driver,film,1976.0,major depressive disorder,major depressive disorder,theme,2,,,
+W00136,Batman Begins,film,2005.0,fear,fear,theme,2,fear,,92.85747409520955
+W00124,Pirates of the Caribbean: The Curse of the Black Pearl,film,2003.0,sea piracy,sea piracy,theme,2,,,
+W00031,The Godfather Part II,film,1974.0,organized crime,organized crime,theme,2,organized crime,,17.577342623032038
+W00239,Green Book,film,2018.0,African Americans,african americans,theme,2,,,
+W00051,Taxi Driver,film,1976.0,taxi,taxi,theme,2,taxi,,98.60377408948334
+W00836,The Man Who Knew Infinity,film,2015.0,Srinivasa Ramanujan,srinivasa ramanujan,theme,2,srinivasa ramanujan,,92.37532093674628
+W00058,Nashville,film,1975.0,country music,country music,theme,2,country music,,52.30950081767361
+W00163,12 Years a Slave,film,2013.0,slavery in the United States,slavery in the united states,theme,2,,,
+W00069,A Clockwork Orange,film,1971.0,violence,violence,theme,2,violence,,65.35570560299453
+W00859,The King,film,2019.0,Henry V of England,henry v of england,theme,2,henry v of england,,85.08908426048394
+W00260,Mrs. Miniver,film,1942.0,Battle of Britain,battle of britain,theme,2,battle of britain,,63.10832640608545
+W00023,E.T. the Extra-Terrestrial,film,1982.0,extraterrestrial life,extraterrestrial life,theme,2,extraterrestrial life,,28.0183362268766
+W00096,Blade Runner,film,1982.0,android,android,theme,2,android,,86.58938271552401
+W00023,E.T. the Extra-Terrestrial,film,1982.0,empathy,empathy,theme,2,,,
+W00836,The Man Who Knew Infinity,film,2015.0,G.H. Hardy,g.h. hardy,theme,2,g.h. hardy,,83.50579631214502
+W00810,Bad Luck Banging or Loony Porn,film,2021.0,morality,morality,theme,2,,,
+W00160,Oppenheimer,film,2023.0,Manhattan Project,manhattan project,theme,2,manhattan project,,68.42842376866297
+W00160,Oppenheimer,film,2023.0,Robert Oppenheimer,robert oppenheimer,theme,2,robert oppenheimer,,77.19036182101338
+W00810,Bad Luck Banging or Loony Porn,film,2021.0,hypocrisy,hypocrisy,theme,2,hypocrisy,,49.9961056662556
+W00160,Oppenheimer,film,2023.0,McCarthyism,mccarthyism,theme,2,mccarthyism,,52.65775694254849
+W00810,Bad Luck Banging or Loony Porn,film,2021.0,history of Romania,history of romania,theme,2,,,
+W00160,Oppenheimer,film,2023.0,nuclear bomb,nuclear bomb,theme,2,nuclear bomb,,17.577342623032038
+W00810,Bad Luck Banging or Loony Porn,film,2021.0,Internet pornography,internet pornography,theme,2,,,
+W00160,Oppenheimer,film,2023.0,Oppenheimer security hearing,oppenheimer security hearing,theme,2,,,
+W00160,Oppenheimer,film,2023.0,trial,trial,theme,2,trial,,96.5398615888998
+W00810,Bad Luck Banging or Loony Porn,film,2021.0,sexual morality,sexual morality,theme,2,,,
+W00228,Father Goose,film,1964.0,Pacific War,pacific war,theme,2,,,
+W00224,Driving Miss Daisy,film,1989.0,old age,old age,theme,2,old age,,57.72410719229634
+W00038,Dr. Strangelove,film,1964.0,nuclear warfare,nuclear warfare,theme,2,,,
+W00819,Courage Under Fire,film,1996.0,post-traumatic stress disorder,post-traumatic stress disorder,theme,2,post-traumatic stress disorder,,84.5484789655084
+W00186,Joker,film,2019.0,The Joker,joker,theme,2,joker,,92.22759160640794
+W00041,Bonnie and Clyde,film,1967.0,Bonnie and Clyde,bonnie and clyde,theme,2,bonnie and clyde,,51.80981245463637
+W00042,Midnight Cowboy,film,1969.0,loneliness,loneliness,theme,2,loneliness,,30.11039368245249
+W00038,Dr. Strangelove,film,1964.0,doomsday device,doomsday device,theme,2,,,
+W00042,Midnight Cowboy,film,1969.0,dying,dying,theme,2,dying,,85.03879951723388
+W00058,Nashville,film,1975.0,politics of the United States,politics of the united states,theme,2,,,
+W00042,Midnight Cowboy,film,1969.0,urbanity,urbanity,theme,2,,,
+W00038,Dr. Strangelove,film,1964.0,mad scientist,mad scientist,theme,2,,,
+W00239,Green Book,film,2018.0,music industry,music industry,theme,2,,,
+W00250,Lost in Translation,film,2003.0,sympathy,sympathy,theme,2,sympathy,,64.14490654175978
+W00038,Dr. Strangelove,film,1964.0,aviation,aviation,theme,2,aviation,,56.01536970736714
+W00260,Mrs. Miniver,film,1942.0,aviation,aviation,theme,2,aviation,,56.01536970736714
+W00036,The Best Years of Our Lives,film,1946.0,aviation,aviation,theme,2,aviation,,56.01536970736714
+W00042,Midnight Cowboy,film,1969.0,culture of New York City,culture of new york city,theme,2,,,
+W00865,Leaving Neverland,film,2019.0,Neverland Ranch,neverland ranch,theme,2,,,
+W00819,Courage Under Fire,film,1996.0,women in the military,women in the military,theme,2,,,
+W00064,The African Queen,film,1951.0,distinction,distinction,theme,2,distinction,,49.9961056662556
+W00042,Midnight Cowboy,film,1969.0,male prostitution,male prostitution,theme,2,,,
+W00819,Courage Under Fire,film,1996.0,friendly fire,friendly fire,theme,2,friendly fire,,52.65775694254849
+W00250,Lost in Translation,film,2003.0,midlife crisis,midlife crisis,theme,2,midlife crisis,,49.37420943238758
+W00042,Midnight Cowboy,film,1969.0,terminal illness,terminal illness,theme,2,,,
+W00023,E.T. the Extra-Terrestrial,film,1982.0,sibling relationship,sibling relationship,theme,2,,,
+W00023,E.T. the Extra-Terrestrial,film,1982.0,homesickness,homesickness,theme,2,homesickness,,17.577342623032038
+W00069,A Clockwork Orange,film,1971.0,rehabilitation,rehabilitation,theme,2,rehabilitation,,78.07435408417217
+W00239,Green Book,film,2018.0,human bonding,human bonding,theme,2,,,
+W00819,Courage Under Fire,film,1996.0,Operation Desert Storm,operation desert storm,theme,2,operation desert storm,,84.5484789655084
+W00239,Green Book,film,2018.0,Tony Lip,tony lip,theme,2,,,
+W00239,Green Book,film,2018.0,racism in the United States,racism in the united states,theme,2,,,
+W00239,Green Book,film,2018.0,racial segregation in the United States,racial segregation in the united states,theme,2,,,
+W00042,Midnight Cowboy,film,1969.0,counterculture of the 1960s,counterculture of the 1960s,theme,2,,,
+W00048,Intolerance,film,1916.0,intolerance,intolerance,theme,2,intolerance,,56.70439844871659
+W00239,Green Book,film,2018.0,Don Shirley,don shirley,theme,2,,,
+W00023,E.T. the Extra-Terrestrial,film,1982.0,flying saucer,flying saucer,theme,2,flying saucer,,66.98146041772995
+W00140,Star Wars: Episode V – The Empire Strikes Back,film,1980.0,flying saucer,flying saucer,theme,2,flying saucer,,66.98146041772995
+W00239,Green Book,film,2018.0,social exclusion,social exclusion,theme,2,,,
+W00069,A Clockwork Orange,film,1971.0,Ludovico technique,ludovico technique,theme,2,,,
+W00239,Green Book,film,2018.0,recognition,recognition,theme,2,,,
+W00042,Midnight Cowboy,film,1969.0,rurality,rurality,theme,2,,,
+W00042,Midnight Cowboy,film,1969.0,male bonding,male bonding,theme,2,,,
+W00023,E.T. the Extra-Terrestrial,film,1982.0,homeland,homeland,theme,2,homeland,,79.39498429049314
+W00088,The Sixth Sense,film,1999.0,spiritism,spiritism,theme,2,,,
+W00239,Green Book,film,2018.0,cultural clash,cultural clash,theme,2,,,
+W00023,E.T. the Extra-Terrestrial,film,1982.0,fleeting relationship,fleeting relationship,theme,2,,,
+W00250,Lost in Translation,film,2003.0,fleeting relationship,fleeting relationship,theme,2,,,
+W00050,West Side Story,film,1961.0,forbidden love,forbidden love,theme,2,,,
+W00865,Leaving Neverland,film,2019.0,Michael Jackson sexual abuse allegations,michael jackson sexual abuse allegations,theme,2,,,
+W00284,The English Patient,film,1996.0,World War II,world war ii,theme,2,world war ii,,68.2937110138989
+W00090,Sophie's Choice,film,1982.0,World War II,world war ii,theme,2,world war ii,,68.2937110138989
+W00097,Yankee Doodle Dandy,film,1942.0,World War II,world war ii,theme,2,world war ii,,68.2937110138989
+W00824,Hannah Arendt,film,2012.0,World War II,world war ii,theme,2,world war ii,,68.2937110138989
+W00276,Talk to Her,film,2002.0,friendship,friendship,theme,2,friendship,,63.666958129795056
+W00832,Messi,film,2014.0,Lionel Messi,lionel messi,theme,2,lionel messi,,44.42411236327609
+W00039,The Sound of Music,film,1965.0,music,music,theme,2,music,,93.24812535085618
+W00828,Mishima: A Life in Four Chapters,film,1985.0,art,art,theme,2,art,,95.31244428032652
+W00850,Tolkien,film,2019.0,J. R. R. Tolkien,j. r. r. tolkien,theme,2,j. r. r. tolkien,,60.94579007610371
+W00039,The Sound of Music,film,1965.0,Alps,alps,theme,2,alps,,99.21125621242832
+W00857,Senna,film,2010.0,car,car,theme,2,car,,96.51326746258036
+W00090,Sophie's Choice,film,1982.0,The Holocaust,holocaust,theme,2,holocaust,,46.88900716586646
+W00857,Senna,film,2010.0,auto racing,auto racing,theme,2,auto racing,,55.44017366648236
+W00828,Mishima: A Life in Four Chapters,film,1985.0,nationalism,nationalism,theme,2,,,
+W00182,Black Swan,film,2010.0,lesbianism,lesbianism,theme,2,,,
+W00858,Rosa Luxemburg,film,1986.0,Rosa Luxemburg,rosa luxemburg,theme,2,rosa luxemburg,,98.40893176690268
+W00858,Rosa Luxemburg,film,1986.0,socialism,socialism,theme,2,socialism,,63.87150741678275
+W00827,Tchaikovsky,film,1970.0,Pyotr Ilyich Tchaikovsky,pyotr ilyich tchaikovsky,theme,2,pyotr ilyich tchaikovsky,,86.93453313353996
+W00824,Hannah Arendt,film,2012.0,Nazi Germany,nazi germany,theme,2,nazi germany,,62.51635635909585
+W00197,Shutter Island,film,2010.0,truth,truth,theme,2,truth,,93.6684411557905
+W00856,Last Days,film,2005.0,Kurt Cobain,kurt cobain,theme,2,kurt cobain,,95.30181819230856
+W00831,Kurt Cobain: Montage of Heck,film,2015.0,Kurt Cobain,kurt cobain,theme,2,kurt cobain,,95.30181819230856
+W00086,12 Angry Men,film,1957.0,capital punishment,capital punishment,theme,2,capital punishment,,23.34609239971407
+W00167,The Green Mile,film,1999.0,capital punishment,capital punishment,theme,2,capital punishment,,23.34609239971407
+W00887,Glory,film,1989,racism,racism,theme,2,,,
+W00887,Glory,film,1989,American Civil War,american civil war,theme,2,american civil war,,88.29141259076175
+W00883,The Right Stuff,film,1983,Cold War,cold war,theme,2,cold war,,85.17689101682095
+W00052,The Deer Hunter,film,1978.0,Vietnam War,vietnam war,theme,2,vietnam war,,70.11404720392284
+W00821,Shadowlands,film,1993.0,C. S. Lewis,c. s. lewis,theme,2,c. s. lewis,,82.29828559563333
+W00808,Reagan,film,2024.0,Ronald Reagan,ronald reagan,theme,2,ronald reagan,,87.11598341843401
+W00857,Senna,film,2010.0,Ayrton Senna,ayrton senna,theme,2,ayrton senna,,91.90850385124097
+W00856,Last Days,film,2005.0,suicide,suicide,theme,2,suicide,,69.7212858649598
+W00864,"11'09""01 September 11",film,2002.0,September 11 attacks,september 11 attacks,theme,2,,,
+W00276,Talk to Her,film,2002.0,communication,communication,theme,2,communication,,23.34609239971407
+W00847,Gaga: Five Foot Two,film,2017.0,Lady Gaga,lady gaga,theme,2,lady gaga,,89.83446765220391
+W00065,Raiders of the Lost Ark,film,1981.0,archaeology,archaeology,theme,2,archaeology,,49.750621677484816
+W00067,Unforgiven,film,1992.0,drama,drama,theme,2,drama,,84.48962015879627
+W00295,The Producers,film,1967.0,fraud,fraud,theme,2,fraud,,88.30044761863114
+W00885,Cinderella Man,film,2005,boxing,boxing,theme,2,boxing,,78.49466906403306
+W00812,Whitney Houston: I Wanna Dance with Somebody,film,2022.0,Whitney Houston,whitney houston,theme,2,whitney houston,,85.74772651553994
+W00182,Black Swan,film,2010.0,ballet,ballet,theme,2,ballet,,91.26050356043194
+W00178,The Godfather Part III,film,1990.0,organized crime,organized crime,theme,2,organized crime,,17.577342623032038
+W00887,Glory,film,1989,African Americans,african americans,theme,2,,,
+W00861,Becoming Astrid,film,2018.0,Q55767,q55767,theme,2,q55767,,93.46067066054616
+W00824,Hannah Arendt,film,2012.0,Hannah Arendt,hannah arendt,theme,2,hannah arendt,,94.452656967245
+W00853,Capone,film,2020.0,Al Capone,al capone,theme,2,al capone,,91.75690410533976
+W00887,Glory,film,1989,slavery in the United States,slavery in the united states,theme,2,,,
+W00182,Black Swan,film,2010.0,hallucination,hallucination,theme,2,hallucination,,34.826352689141665
+W00828,Mishima: A Life in Four Chapters,film,1985.0,seppuku,seppuku,theme,2,seppuku,,42.605351551679824
+W00828,Mishima: A Life in Four Chapters,film,1985.0,Yukio Mishima,yukio mishima,theme,2,yukio mishima,,91.90850385124097
+W00039,The Sound of Music,film,1965.0,Anschluss,anschluss,theme,2,anschluss,,39.77644975825316
+W00054,North by Northwest,film,1959.0,espionage,espionage,theme,2,espionage,,78.6752555855754
+W00299,The Usual Suspects,film,1995.0,deception,deception,theme,2,,,
+W00182,Black Swan,film,2010.0,psychosis,psychosis,theme,2,psychosis,,45.54519953493519
+W00828,Mishima: A Life in Four Chapters,film,1985.0,militarism,militarism,theme,2,,,
+W00884,Apollo 13,film,1995,Apollo 13,apollo 13,theme,2,apollo 13,,52.89104262388727
+W00828,Mishima: A Life in Four Chapters,film,1985.0,bushido,bushido,theme,2,bushido,,56.48676684000088
+W00299,The Usual Suspects,film,1995.0,urban legend,urban legend,theme,2,urban legend,,57.28722738096288
+W00182,Black Swan,film,2010.0,Swan Lake,swan lake,theme,2,swan lake,,79.2916895458704
+W00276,Talk to Her,film,2002.0,loneliness,loneliness,theme,2,loneliness,,30.11039368245249
+W00054,North by Northwest,film,1959.0,kidnapping,kidnapping,theme,2,kidnapping,,47.35940374856212
+W00284,The English Patient,film,1996.0,passion,passion,theme,2,passion,,77.4608201621061
+W00182,Black Swan,film,2010.0,doppelgänger,doppelganger,theme,2,doppelganger,,53.48263058165665
+W00821,Shadowlands,film,1993.0,Joy Davidman,joy davidman,theme,2,,,
+W00276,Talk to Her,film,2002.0,insanity,insanity,theme,2,insanity,,72.74813761755921
+W00858,Rosa Luxemburg,film,1986.0,Wilhelminism,wilhelminism,theme,2,,,
+W00289,The Hurt Locker,film,2008.0,Iraq War,iraq war,theme,2,iraq war,,64.14978857008639
+W00091,Goodfellas,film,1990.0,Henry Hill,henry hill,theme,2,henry hill,,17.577342623032038
+W00295,The Producers,film,1967.0,show business,show business,theme,2,show business,,30.11039368245249
+W00276,Talk to Her,film,2002.0,intimate relationship,intimate relationship,theme,2,,,
+W00883,The Right Stuff,film,1983,aviation,aviation,theme,2,aviation,,56.01536970736714
+W00194,The Artist,film,2011.0,film production,film production,theme,2,,,
+W00828,Mishima: A Life in Four Chapters,film,1985.0,masculinity,masculinity,theme,2,,,
+W00295,The Producers,film,1967.0,Adolf Hitler in popular culture,adolf hitler in popular culture,theme,2,,,
+W00182,Black Swan,film,2010.0,perfectionism,perfectionism,theme,2,perfectionism,,28.0183362268766
+W00887,Glory,film,1989,54th Regiment Massachusetts Volunteer Infantry,54th regiment massachusetts volunteer infantry,theme,2,,,
+W00086,12 Angry Men,film,1957.0,distinction,distinction,theme,2,distinction,,49.9961056662556
+W00828,Mishima: A Life in Four Chapters,film,1985.0,death drive,death drive,theme,2,,,
+W00284,The English Patient,film,1996.0,healing,healing,theme,2,healing,,36.19580833925743
+W00284,The English Patient,film,1996.0,war victim,war victim,theme,2,,,
+W00299,The Usual Suspects,film,1995.0,criminal investigation,criminal investigation,theme,2,,,
+W00828,Mishima: A Life in Four Chapters,film,1985.0,vita activa,vita activa,theme,2,,,
+W00828,Mishima: A Life in Four Chapters,film,1985.0,vita contemplativa,vita contemplativa,theme,2,,,
+W00888,American Sniper,film,2014,Chris Kyle,chris kyle,theme,2,chris kyle,,62.51635635909585
+W00889,Lone Survivor,film,2013,Operation Red Wings,operation red wings,theme,2,,,
+W00828,Mishima: A Life in Four Chapters,film,1985.0,action,action,theme,2,action,,80.12911349498808
+W00295,The Producers,film,1967.0,Nazis in fiction,nazis in fiction,theme,2,,,
+W00887,Glory,film,1989,recognition,recognition,theme,2,,,
+W00295,The Producers,film,1967.0,male bonding,male bonding,theme,2,,,
+W00828,Mishima: A Life in Four Chapters,film,1985.0,Mishima incident,mishima incident,theme,2,,,
+W00299,The Usual Suspects,film,1995.0,criminality,criminality,theme,2,,,
+W00086,12 Angry Men,film,1957.0,jury trial,jury trial,theme,2,jury trial,,27.17510229716646
+W00065,Raiders of the Lost Ark,film,1981.0,occultism in Nazism,occultism in nazism,theme,2,,,
+W00276,Talk to Her,film,2002.0,cinema,cinema,theme,2,cinema,,86.10829067521041
+W00887,Glory,film,1989,comradeship,comradeship,theme,2,,,
+W00276,Talk to Her,film,2002.0,narration,narration,theme,2,,,
+W00054,North by Northwest,film,1959.0,mistaken identity,mistaken identity,theme,2,mistaken identity,,28.0183362268766
+W00828,Mishima: A Life in Four Chapters,film,1985.0,mind and body,mind and body,theme,2,,,
+W00893,Body of Lies,film,2008,terrorism,terrorism,theme,2,terrorism,,27.17510229716646
+W00897,No End in Sight,film,2007,terrorism,terrorism,theme,2,terrorism,,27.17510229716646
+W00905,Alexander,film,2004,Alexander the Great,alexander the great,theme,2,alexander the great,,99.78215520403371
+W00901,The Ten Commandments,film,1956,slavery,slavery,theme,2,slavery,,79.36774480012902
+W00896,Restrepo,film,2010,Korangal Valley campaign,korangal valley campaign,theme,2,,,

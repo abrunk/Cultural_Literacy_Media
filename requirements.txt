@@ -4,3 +4,5 @@ matplotlib>=3.7
 seaborn>=0.12
 jupyter>=1.0
 spacy>=3.5
+lxml>=4.9
+rapidfuzz>=3.0

@@ -29,5 +29,8 @@ data/xd_corpus/
 data/kaikki_english.jsonl.gz
 data/bartletts_gutenberg.txt
 
+# API/Wikidata cache (regenerable)
+data/cache/
+
 # Executed notebooks (contain outputs, regenerable)
 notebooks/*_executed.ipynb
